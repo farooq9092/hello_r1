@@ -5,5 +5,6 @@ name = "farooq"
 age="20"
 print(name)
 print("few line added")
-
+print(age)
+#check
 
